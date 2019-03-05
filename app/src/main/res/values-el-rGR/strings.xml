@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Χώρες</string>
+    <string name="pais">"Ελλάδα "</string>
+    <string name="comida" translatable="false">"Moussaka "</string>
+    <string name="pratoApresentado" translatable="false">"Moussaka"</string>
+</resources>

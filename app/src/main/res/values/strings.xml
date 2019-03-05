@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Paises</string>
+    <string name="pais">Brasil</string>
+    <string name="comida" translatable="false">Feijoada</string>
+    <string name="pratoApresentado" translatable="false">Feijoada</string>
+
+</resources>

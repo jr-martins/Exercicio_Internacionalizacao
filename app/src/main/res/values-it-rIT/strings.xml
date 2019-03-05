@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">paesi</string>
+    <string name="comida" translatable="false">Pasta</string>
+    <string name="pratoApresentado" translatable="false">Pasta</string>
+    <string name="pais">"Italia"</string>
+</resources>
